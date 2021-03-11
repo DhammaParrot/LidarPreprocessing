@@ -1,5 +1,5 @@
 # Lidar
-The notebook "preprocessing.ipynb" (and my example preprocessing_example.ipynb) in the directory "/LidarPreProcessing/notebooks/" process a directory of las files into voxelised, sectorialised and labeled pointclouds in xyz format using the 2d polygons shapefile "/LidarPreProcessing/resources/archaeology.shp" from the "2019_angkormap/Master/AngkorMaster.shp" repository.
+The notebook "preprocessing.ipynb" in the directory "/LidarPreProcessing/notebooks/" processes a directory of las files into voxelised, sectorialised and labeled pointclouds in xyz format using the 2d polygons shapefile "/LidarPreProcessing/resources/archaeology.shp" from the "2019_angkormap/Master/AngkorMaster.shp" repository.
 Steps to implement:
 1. Clone the repo and make a virtual enviroment with python 3.8
 2. Install the requirments.txt file
